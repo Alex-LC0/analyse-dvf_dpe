@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+.DS_Store
+rapport_bi/*
+!rapport_bi/.gitkeep
+table_dpe/dpe_26.csv
+table_dvf/full_dvf.csv
+table_dvf/full-2022.csv
+table_dvf/dvf.csv
