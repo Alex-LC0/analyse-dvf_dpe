@@ -93,9 +93,6 @@ cd analyse-dvf-dpe
 pip install -r requirements.txt
 ```
 
-Les tables CSV de la BAAC (de 2019 à 2024) sont déjà incluses dans le dossier `base_donnee/table/`. Elles proviennent de la [Base de données annuelle des accidents corporels de la circulation routière](https://www.data.gouv.fr/fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2023/) publiée sur data.gouv.fr.
-
-
 ### 2. Fusionner les .csv 
 
 ```bash
